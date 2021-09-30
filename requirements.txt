@@ -1,2 +1,3 @@
 Kivy
 kivymd
+pip
